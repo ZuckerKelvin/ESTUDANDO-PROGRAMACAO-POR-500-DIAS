@@ -1,1 +1,2 @@
-
+Décimo dia, Aprendi repetiçoes de laços, com int i =...
+estou gostando muito da Jornada 
